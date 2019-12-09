@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\netcoreapp3.0\WriteCustomerRecords.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\netcoreapp3.0\WriteCustomerRecords.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\netcoreapp3.0\WriteCustomerRecords.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\netcoreapp3.0\WriteCustomerRecords.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\netcoreapp3.0\WriteCustomerRecords.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\bin\Debug\netcoreapp3.0\WriteCustomerRecords.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\netcoreapp3.0\WriteCustomerRecords.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\netcoreapp3.0\WriteCustomerRecords.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\netcoreapp3.0\WriteCustomerRecords.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\netcoreapp3.0\WriteCustomerRecords.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\WriteCustomerRecords\WriteCustomerRecords\obj\Debug\netcoreapp3.0\WriteCustomerRecords.pdb

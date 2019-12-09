@@ -1,0 +1,10 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\bin\Debug\netcoreapp3.0\FindCustomerRecords.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\bin\Debug\netcoreapp3.0\FindCustomerRecords.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\bin\Debug\netcoreapp3.0\FindCustomerRecords.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\bin\Debug\netcoreapp3.0\FindCustomerRecords.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\bin\Debug\netcoreapp3.0\FindCustomerRecords.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\bin\Debug\netcoreapp3.0\FindCustomerRecords.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\obj\Debug\netcoreapp3.0\FindCustomerRecords.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\obj\Debug\netcoreapp3.0\FindCustomerRecords.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\obj\Debug\netcoreapp3.0\FindCustomerRecords.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\FindCustomerRecords\FindCustomerRecords\obj\Debug\netcoreapp3.0\FindCustomerRecords.pdb

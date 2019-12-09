@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteCustomerRecords", "WriteCustomerRecords\WriteCustomerRecords.csproj", "{ACED9551-5536-4ECC-A5A7-FB4F6A5DA0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACED9551-5536-4ECC-A5A7-FB4F6A5DA0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACED9551-5536-4ECC-A5A7-FB4F6A5DA0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACED9551-5536-4ECC-A5A7-FB4F6A5DA0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACED9551-5536-4ECC-A5A7-FB4F6A5DA0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1634636A-0266-4FD6-9079-A66B9CEE52B2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\bin\Debug\RetrieveCustomizedForm.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.Form1.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.Properties.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.csproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\RetrieveCustomizedForm\RetrieveCustomizedForm\obj\Debug\RetrieveCustomizedForm.pdb

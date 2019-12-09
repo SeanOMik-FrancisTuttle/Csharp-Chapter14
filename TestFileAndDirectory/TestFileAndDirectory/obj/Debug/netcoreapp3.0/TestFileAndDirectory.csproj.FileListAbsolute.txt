@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\bin\Debug\netcoreapp3.0\TestFileAndDirectory.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\bin\Debug\netcoreapp3.0\TestFileAndDirectory.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\bin\Debug\netcoreapp3.0\TestFileAndDirectory.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\bin\Debug\netcoreapp3.0\TestFileAndDirectory.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\bin\Debug\netcoreapp3.0\TestFileAndDirectory.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\bin\Debug\netcoreapp3.0\TestFileAndDirectory.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\obj\Debug\netcoreapp3.0\TestFileAndDirectory.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\obj\Debug\netcoreapp3.0\TestFileAndDirectory.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\obj\Debug\netcoreapp3.0\TestFileAndDirectory.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\obj\Debug\netcoreapp3.0\TestFileAndDirectory.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter14\TestFileAndDirectory\TestFileAndDirectory\obj\Debug\netcoreapp3.0\TestFileAndDirectory.pdb
